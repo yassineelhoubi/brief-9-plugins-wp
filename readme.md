@@ -1,4 +1,4 @@
-# creation of a plugin from scratch
+# create a plugin from scratch
 
 ```
 1 - create a new folder called 'Myplugin' in the directory wordpress/wp-content/plugins/.
